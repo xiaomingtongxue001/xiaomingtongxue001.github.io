@@ -1,2 +1,2 @@
-# xiaomingtongxue001.githup.io
+# xiaomingtongxue001.github.io
 个人主页
